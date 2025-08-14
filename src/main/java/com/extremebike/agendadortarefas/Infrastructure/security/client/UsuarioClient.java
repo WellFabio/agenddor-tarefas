@@ -1,4 +1,4 @@
-package com.extremebike.agendadortarefas.Infrastructure.client;
+package com.extremebike.agendadortarefas.Infrastructure.security.client;
 
 import com.extremebike.agendadortarefas.business.dto.UsuarioDTO;
 import org.springframework.cloud.openfeign.FeignClient;
