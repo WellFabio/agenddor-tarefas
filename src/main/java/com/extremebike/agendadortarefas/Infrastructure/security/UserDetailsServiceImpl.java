@@ -1,7 +1,7 @@
 package com.extremebike.agendadortarefas.Infrastructure.security;
 
 
-import com.extremebike.agendadortarefas.Infrastructure.client.UsuarioClient;
+import com.extremebike.agendadortarefas.Infrastructure.security.client.UsuarioClient;
 import com.extremebike.agendadortarefas.business.dto.UsuarioDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
